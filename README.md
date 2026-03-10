@@ -2,11 +2,10 @@
 
 A desktop PC health scanner for Windows that reads your real hardware, detects issues, and explains everything in plain English — no jargon, no fake errors, no upsells.
 
-![SysProbe Screenshot](screenshot.png)
 
 ## Download
 
-[⬇️ Download SysProbe for Windows](https://drive.google.com/file/d/1THIYEWTzN-6o-Kg33OOXiZzDUVZ8jBtA/view?usp=drive_link)
+[⬇️ Download SysProbe for Windows](https://drive.google.com/file/d/1FJzCKqwfRXYaijapcYfxNV6Tdwfzusj1/view?usp=drive_link)
 
 ## What It Does
 
@@ -54,6 +53,7 @@ npm run make
 ```
 
 Produces a `.exe` installer in `out/make/squirrel.windows/x64/`
+
 
 
 
